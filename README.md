@@ -1,6 +1,8 @@
 # QR-Easy
-QR-Easy is an easy to use frontend for making QRCode.
-You can create QR to use in a business card, Webpage, wifi for guest access, etc.
+QR-Easy is an easy to use frontend for making QRCode.  
+You can create QR to use in a business card, Webpage, wifi for guest access, etc.  
+
+[Demo Link](https://www.romelvera.com/github/qr-easy/)
 
 #### Features
 - [x] Create a personal contact card (MeCard)
